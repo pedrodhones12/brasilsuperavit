@@ -21,5 +21,8 @@ export default defineConfig({
       },
     },
   },
-  base: '/brasilsuperavit/'
+  base: '/brasilsuperavit/',
+  build: {
+    outDir: 'dist'
+  }
 })
