@@ -1,5 +1,4 @@
-
- {
+{
   "name": "base44-app",
   "private": true,
   "version": "0.0.0",
@@ -83,3 +82,4 @@
     "gh-pages": "^6.1.1"
   }
 }
+ 
